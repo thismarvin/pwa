@@ -97,13 +97,23 @@
 		canvas.style.width = `${parent.clientWidth}px`;
 		canvas.style.height = `${parent.clientHeight}px`;
 
-		for (let y = 0; y < height; ++y) {
-			for (let x = 0; x < width; ++x) {
-				if (Math.random() <= 0.25) {
-					world.set(x, y, true);
+		function worldReset() {
+			for (let y = 0; y < height; ++y) {
+				for (let x = 0; x < width; ++x) {
+					if (Math.random() <= 0.25) {
+						world.set(x, y, true);
+					}
 				}
 			}
 		}
+
+		canvas.addEventListener("pointerdown", (event) => {
+			if (event.buttons === 1) {
+				worldReset();
+			}
+		});
+
+		worldReset();
 
 		pixels = new Pixels(canvas, width, height);
 
