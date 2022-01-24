@@ -6,6 +6,11 @@
 
 <svelte:head>
 	<title>Life</title>
+	<style>
+		html {
+			overflow: hidden;
+		}
+	</style>
 </svelte:head>
 
 <main>
@@ -24,6 +29,14 @@
 		margin: 0;
 		padding: 0;
 		min-height: 100vh;
+	}
+
+	:global(body) {
+		position: fixed;
+		left: 0;
+		top: 0;
+		right: 0;
+		bottom: 0;
 	}
 
 	main {
