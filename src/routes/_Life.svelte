@@ -87,7 +87,7 @@
 		draw();
 
 		if (browser) {
-			requestHandle = requestAnimationFrame((timeStamp) => loop(timeStamp));
+			requestHandle = requestAnimationFrame((timeStamp: number) => loop(timeStamp));
 		}
 	}
 
