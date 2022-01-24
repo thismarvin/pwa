@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5"
+   height="5"
+   viewBox="0 0 1.3229166 1.3229166"
+   version="1.1"
+   id="svg873"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="glider.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview875"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="90.509668"
+     inkscape:cx="-1.1877184"
+     inkscape:cy="2.2704757"
+     inkscape:window-width="2560"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid934" />
+  </sodipodi:namedview>
+  <defs
+     id="defs870" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1882"
+       width="1.3229166"
+       height="1.3229166"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round"
+       d="M 0.26458332,0.79374999 H 0.52916664 V 1.0583333 H 0.26458332 Z"
+       id="path1775" />
+    <path
+       id="rect1460"
+       style="stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round"
+       d="m 0.26458333,0.26458332 h 0.2645833 c 0,0 1e-8,0 1e-8,10e-9 v 0.2645833 c 0,0 -1e-8,1e-8 -1e-8,1e-8 h -0.2645833 c -10e-9,0 -10e-9,-1e-8 -10e-9,-1e-8 v -0.2645833 c 0,-10e-9 0,-10e-9 10e-9,-10e-9 z m 0.26458333,0.26458334 c 0,0.0881944 0,0.1763889 0,0.26458333 -0.0881944,0 -0.1763889,0 -0.26458333,0 0,0.0881944 0,0.1763889 0,0.26458331 0.1763889,0 0.35277776,0 0.52916666,0 0,-0.0881944 0,-0.17638888 0,-0.26458331 0.0881944,0 0.1763889,0 0.26458331,0 0,-0.0881944 0,-0.1763889 0,-0.26458333 -0.17638888,0 -0.35277774,0 -0.52916664,0 z" />
+  </g>
+</svg>
